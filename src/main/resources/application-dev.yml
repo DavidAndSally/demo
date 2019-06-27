@@ -7,3 +7,10 @@ girl:
   name: DavidDev
   age: 30
   sex: 男
+
+#rabbitmq相关配置
+spring:
+  rabbitmq:
+    host: 10.1.69.65
+    username: guest
+    password: guest
